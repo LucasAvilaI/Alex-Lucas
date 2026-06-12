@@ -30,3 +30,4 @@ Después hacemos los pull requests
 | Hora | rama | Tarea | Comentario |
 |------|------|-------|------------|
 | 12:52 | `fix/documentos` | `README.md` | Modificado `README.md` con seguimiento de tareas |
+| 12:56 | `feature/documentos`| crear rama | creada rama y hecho el `push` |
