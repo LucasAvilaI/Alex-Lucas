@@ -15,7 +15,8 @@ Esta es la estructura actual de ramas a 2026/06/12 12:48:00
 ```text
 main
 ├─── develop (creada por Alex)
-│    └────── fix/documentos (creada por Alex)
+│    ├────── fix/documentos (creada por Alex)
+│    └────── feature/funcion-media (creada por Alex)
 └─── lucas (creada por Lucas)
 ```
 
@@ -28,6 +29,8 @@ una media de las notas que se reciban.
 Después hacemos los pull requests
 
 | Hora | rama | Tarea | Comentario |
-|------|------|-------|------------|
+| ---- | ---- | ----- | ---------- |
 | 12:52 | `fix/documentos` | `README.md` | Modificado `README.md` con seguimiento de tareas |
-| 12:56 | `feature/documentos`| crear rama | creada rama y hecho el `push` |
+| 12:56 | `feature/documentos` | crear rama | creada rama y hecho el `push` |
+| 13:04 | `feature/documentos` | funcion media_notas | creada funcion en `ejercicio_pull_request.py` y hecho `push` de la rama |
+| 13:05 | `fix/documentos` | `README.md` | actualizada información del `README.md` |
